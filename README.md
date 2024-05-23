@@ -1,4 +1,4 @@
-Uygulamanın amacı filmlerimizi ekleyebilir ve flmin bilgilerini görebliriz ve filmimizi llisteleyi izleyebiliriz
+Uygulamanın amacı filmlerimizi ekleyebilir ve flmin bilgilerini görebliriz ve filmimizi llisteleyi izleyebiliriz.
 
 ![Ekran Alıntısı](https://github.com/muratgull07/Film-Dizi-Izleme-Sistemi/assets/148050387/9feee717-6fc7-45c0-953c-0caba5b72e0a)
 
